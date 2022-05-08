@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Mekdes.</h2>
 <p align="center">
- • <a href="https://www.linkedin.com/in/makdes-gid-2b0342226">linkedin</a> •
+ • <a href="https://www.linkedin.com/in/mekdes-gidlaw-2b0342226">linkedin</a> •
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 </p>
 
