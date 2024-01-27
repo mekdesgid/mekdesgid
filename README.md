@@ -7,12 +7,11 @@
 
 -------
 
- a 23 years old, web developer and DevOps Engineer from Israel,Jerusalem.
+ a 24 years old,Network Administrator from Israel,Jerusalem.
 
 🎓 Student at:
 
-- FullStack Developer at <a href="https://binyamintech.co.il/">BinyaminTech.</a>
-- DevOps Engineer at <a href="https://rhinops.io/">RhinOps.</a>
+- Network Administrator <a href="[https://binyamintech.co.il](https://www.linkedin.com/school/techcareerisrael/)/">Tech-Career.</a>
 
 
 -------
@@ -23,17 +22,6 @@
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-#### Front-End Development
-
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Beck-End Development
-
-![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=Express.js&logoColor=white)
 
 #### Tools
 
